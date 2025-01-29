@@ -24,5 +24,5 @@ Course Helper is a web application designed to help students manage their course
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sarayu19724/course.git
+   git clone https://github.com/nehapatel-ctrl/project.git
    cd course-helper
